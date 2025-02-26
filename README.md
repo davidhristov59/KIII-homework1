@@ -1,1 +1,1 @@
-# KIII-homework1
+First Homework for the course KIII @FCSE - Skopje
